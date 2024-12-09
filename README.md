@@ -78,8 +78,8 @@ This project uses **machine learning** and interactive visualizations to predict
 
 ### 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your_username/crop-analysis-recommendation.git
-cd crop-analysis-recommendation
+git clone https://github.com/saikat37/Crop-Analysis-and-Recommendation-System
+cd Crop-Analysis-and-Recommendation-System
 ```
 
 ### 2. **Install dependencies**  
@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## 📂 **Project Structure**  
 ```plaintext
-📁 Crop-Analysis-Recommendation
+📁 Crop-Analysis-and-Recommendation-System
 │-- app.py                 # Streamlit Application Code
 │-- Crop_recommendation.csv # Dataset File
 │-- requirements.txt       # Dependencies List
