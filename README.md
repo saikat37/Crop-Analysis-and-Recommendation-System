@@ -132,7 +132,8 @@ The **Random Forest Classifier** achieved:
 - [**Saikat Santra**](https://github.com/saikat37) (24AG66R06)  
 - [**Kashish Sahu**](https://github.com/Kashish5678) (24AG66R08)  
 🎓 *M.Tech, Agricultural Systems and Management*  
-🏫 *Indian Institute of Technology Kharagpur* 
+🏫 *Indian Institute of Technology Kharagpur*
+
 
 ---
 
